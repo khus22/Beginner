@@ -1,0 +1,4 @@
+Catalyst optimizer---
+
+https://data-flair.training/blogs/spark-sql-optimization/
+https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f
